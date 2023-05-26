@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+
+      <style>
+         table, th, td {
+            border: 3px solid black;
+         }
+         img{
+            border:2px solid black;
+         }
+         #about-section{
+               border:10px solid cyan;
+         }
+         #table{
+               border:10px solid green;
+               font-size: 40px;
+         }
+         #when{
+            border:5px solid red;
+            font-size: 30px;
+         }
+
+         #i{
+            border:10px solid green;
+          }
+      </style> 
+<title>MYWEBSITE</title>
+  
+
+<body bgcolor = "lightyellow">
+
+<h1 align="center">THE COMPUTER CLUB</h1>
+<section id="about-section">
+<img src = "download.jpg" height = "400px"; width = "600px"; align= "left">
+<h2 align= "center">WHY JOIN? </h2>
+<h2 align= "center">One of the biggest benefits of joining a computer science club or organization is the opportunity to network with like-minded individuals. This can include other students. And also help you gain knowladge and experience for future.</h2>
+<br>
+<br>
+<br>
+
+<h2>HOW TO JOIN?</h2>
+<h2>Well you wanna join? Guess what youre in luck. Registrations open every year on the start of the academic year. SO try for it. You might as well get in as it requires no basic skillset. </h2>
+</section>
+<br>
+<br>
+<br>
+
+
+<h1 align= "center">Types of computers</h1>
+
+
+
+<br>
+<br>
+<br>
+<section id="table">
+
+<h1>THE IMAGES OF ALL THE COMPUTERS BELOW:</h1>
+
+<img src = "optiplex.jpg" height = "100px"; width = "100px"; align= "left">
+<img src = "pdp.jpg" height = "100px"; width = "100px"; align= "left">
+<img src = "elite.jpg" height = "100px"; width = "100px"; align= "left">
+<img src = "fugaku.jpg" height = "100px"; width = "100px"; align= "right">
+<img src = "air.jpg" height = "100px"; width = "100px"; align= "right">
+<img src = "a.jpg" height = "100px"; width = "100px"; align= "right">
+<br>
+<br>
+<table>
+  <tr>
+   <th>Name of type</th>
+   <th>First release date</th>
+   <th>Main Manufacturers TOP 3</th>
+   <th>Example
+  </tr>
+  <tr>
+    <td>micro-computer</td>
+    <td>1973</td>
+    <td> LENVO, HP, DELL</td>
+    <td>Dell optiplex 3040</td>
+  </tr>
+    <td>Mini-computer</td>
+    <td>1965</td>
+    <td>DEC, IBM</td>
+    <td>PDP-5</td>
+  <tr>
+    <td>Personal-Computer</td>
+     <td>1981</td>
+    <td>Dell, Apple, HP</td>
+    <td>HP EliteDesk</td>
+  </tr>
+  <tr>
+    <td>Super-computer</td>
+    <td>1964</td>
+    <td>HPE</td>
+    <td>Fugaku supercomputer</td>
+  </tr>
+  <tr>
+   <td>Laptop</td>
+   <td>1981</td>
+   <td>Lenevo, HP, Apple</td>
+   <td>macbook air</td>
+  </tr>
+  <tr>
+   <td>Tablet</td>
+   <td>2001</td>
+   <td>Samsung and apple</td>
+   <td>Samsung galaxy A8</td>
+  </tr>
+</table>
+<br>
+<br>
+</section>
+<br>
+
+<section id="when">
+<h2>We will be using PC'S</h2>
+
+
+<h1>MEETING SCHEDULES</h1>
+
+<h3>TO BE UPDATED</h3>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+</section>
+<h1>For more info on school and school club visit</h1>
+<a href="https://www.dpsmisdoha.com/DPSDoha/">the website</a>
+
+<h3>By: Biswajit Dalai 8-A, ROSE HOUSE</h3>
+
+</body>
+
+</html>
